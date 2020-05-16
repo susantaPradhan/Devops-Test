@@ -28,3 +28,9 @@ git log --oneline
 git log -i --grep="Tesx"
 git log -i --author="susantaPradhan"
 git log -3
+
+Impotant
+=======
+git rm --cached [file name](it will unstage a file or untrack a file)
+cd .git/ it will show all the hiden file in side the .get repository
+  
