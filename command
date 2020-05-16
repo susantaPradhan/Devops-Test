@@ -19,3 +19,12 @@ learn git part-2 branch
 3)git checkout [branch name] (switch the branch)
 4)git checkout master (switching to master)
 5)git merge [branch name] (in which branch developer change that code .and want to merge in master branch)
+
+learn git part-3 log (filter)
+===============================
+git log (it will show all the history of the changes)
+git log -p
+git log --oneline
+git log -i --grep="Tesx"
+git log -i --author="susantaPradhan"
+git log -3
