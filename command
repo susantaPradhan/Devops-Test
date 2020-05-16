@@ -33,4 +33,5 @@ Impotant
 =======
 git rm --cached [file name](it will unstage a file or untrack a file)
 cd .git/ it will show all the hiden file in side the .get repository
-  
+git stash (use thsi bufre commit if u want to revert the code)
+git revert [commit id ](use this commannd after the code commit)
