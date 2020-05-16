@@ -40,3 +40,8 @@ git checkout master
 git rest
 git restore
 
+Today
+=================
+git pull 
+git fetch
+
