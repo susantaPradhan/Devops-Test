@@ -11,3 +11,11 @@ learn git part-1
 6)git push origin master :(push/store the files in the git hub)
 7)git clone repoName :( give the acces to other user) 
 8)git pull origin master :(pull the record )
+
+learn git part-2 branch
+====================
+1)git branch(checking the branch)
+2)git branch [branch name] (create a branch)
+3)git checkout [branch name] (switch the branch)
+4)git checkout master (switching to master)
+5)git merge [branch name] (in which branch developer change that code .and want to merge in master branch)
